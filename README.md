@@ -28,15 +28,15 @@ Requirements
 - Python with matplotlib (required by the Julia package PyPlot)
 - Julia Packages: DistributedArrays, Distributions, Images, PyPlot, ImageMagick, MAT (only to run the example scripts)
 - To install these packages run the following commands in a Julia terminal:
-	```
-	Pkg.add("DistributedArrays")
-	Pkg.add("Distributions")
-	Pkg.add("Images")
-	Pkg.add("PyPlot")
-	Pkg.add("ImageMagick")
-	Pkg.add("MAT")
-	Pkg.update()
-	```
+```
+Pkg.add("DistributedArrays")
+Pkg.add("Distributions")
+Pkg.add("Images")
+Pkg.add("PyPlot")
+Pkg.add("ImageMagick")
+Pkg.add("MAT")
+Pkg.update()
+```
 
 Instructions
 ------------
