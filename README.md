@@ -24,9 +24,9 @@ Angel Yu (email: angelyu@mit.edu)
 Requirements
 ------------
 
-Julia 0.4.2
-Python with matplotlib (required by the Julia package PyPlot)
-Julia Packages: DistributedArrays, Distributions, Images, PyPlot, ImageMagick, MAT (only to run the example scripts)
+- Julia 0.4.2
+- Python with matplotlib (required by the Julia package PyPlot)
+- Julia Packages: DistributedArrays, Distributions, Images, PyPlot, ImageMagick, MAT (only to run the example scripts)
 To install these packages run the following commands in a Julia terminal:
 ```
 Pkg.add("DistributedArrays")
