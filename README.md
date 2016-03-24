@@ -37,6 +37,10 @@ Pkg.add("ImageMagick")
 Pkg.add("MAT")
 Pkg.update()
 ```
+- ImageMagick might not work on OSX systems. In that case, you can use QuartzImageIO by running:
+```
+Pkg.add("QuartzImageIO")
+```
 
 Instructions
 ------------
